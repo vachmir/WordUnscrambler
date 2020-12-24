@@ -97,7 +97,7 @@ namespace WordUnscrambler
                 Console.WriteLine(Constants.MatchNotFound);
             }
 
-            //This is how to create a file by coding
+            //This is how to create and delete a file by coding
             //string[] lines = { "1st line", "2nd line", "3rd line", "4th line" };
             //File.WriteAllLines("File.txt", lines);
 
